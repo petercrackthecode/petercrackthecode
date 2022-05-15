@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petercrackthecode
-- 👀 I’m interested in data security, machine learning, & web scrapers.
+- 👀 I’m interested in data security, machine learning, & web scraping.
 - 🌱 I’m currently learning Typescript, openAI, & MongoDB.
 - 💞️ I’m looking to collaborate on Opensource projects in backend development, especially projects in the data security field.
 - 📫 How to reach me: Email me at peternguyenforwork[at]gmail.com👋 or find me on Twitter: https://twitter.com/petercrackstuff
